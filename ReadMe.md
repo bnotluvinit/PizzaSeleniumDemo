@@ -1,0 +1,1 @@
+The code uses Selenium Webdriver 2.44 and Junit 4.11. to test the basic functionality of ordering a new Pizza on the Demo Website The tests were created using Firefox. The Java project is managed by using Maven (http://maven.apache.org/users/index.html)The tests can be ran using the command mvn test or by using JUnit within an IDE (Eclipse, Spring Tool Suite)
